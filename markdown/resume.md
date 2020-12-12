@@ -1,4 +1,4 @@
-Johnny Coder
+Omry Cohen
 ============
 
 ----
@@ -12,17 +12,17 @@ Johnny Coder
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2021 
+:   **Mss, Physics**; Hebrew University of Jerusalem, Israel
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Learning Curves for Deep Neural Networks - A Field Theory Approach*
+     *Supervisor: [Dr. Zohar Ringle](http://old.phys.huji.ac.il/~zohar.ringel/)*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2016-2019
+:   **BSc, Mathematics and Physics**; Hebrew University of Jerusalem, Israel (as a part of [Talpiot program](https://en.wikipedia.org/wiki/Talpiot_program)).
 
-    *Minor: Awesomeology*
+    *Honors: Summa cum laude*
+    
 
 Experience
 ----------
