@@ -27,7 +27,7 @@ Education
 :   **MSc, Physics**; Hebrew University of Jerusalem, Israel
 
     *Thesis title: Learning Curves for Deep Neural Networks - A Field Theory Approach*
-     *Supervisor: [Dr. Zohar Ringle](http://old.phys.huji.ac.il/~zohar.ringel/)*
+     *Supervisor: [Dr. Zohar Ringel](http://old.phys.huji.ac.il/~zohar.ringel/)*
 
 2016-2019
 :   **BSc, Mathematics and Physics**; Hebrew University of Jerusalem, Israel (as a part of [Talpiot program](https://en.wikipedia.org/wiki/Talpiot_program)).
